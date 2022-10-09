@@ -12,7 +12,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies":
+  "graphql":"^16.2.0", {
     "concurrently": "^5.1.0"
   }
 }
